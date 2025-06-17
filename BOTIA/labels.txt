@@ -1,0 +1,4 @@
+0 palomas
+1 gorriones
+2 gatos
+3 perros
