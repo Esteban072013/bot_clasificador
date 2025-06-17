@@ -34,5 +34,5 @@ async def check(ctx):
             await ctx.send(f"RESULTADO 🔎 {resultado}")
 
 #Correr    
-token = 'MTMyNjMzNzUxMDY0NDkxMjIwOA.GSfRat.cIxy3RcVyiqz0VUMDUXsdR0OYUQKNyjECU3ox0'
+token = ''
 bot.run(token)
